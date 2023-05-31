@@ -1,0 +1,12 @@
+marry,child,home_economics ,house,status
+yes,2,good,yes,happy
+no,0,bad,no,unhappy
+yes,1,average,yes,happy
+no,3,good,no,unhappy
+yes,2,average,yes,neutral
+no,1,bad,yes,happy
+yes,0,good,no,neutral
+no,1,good,no,happy
+no,2,average,yes,neutral
+yes,2,average,no,unhappy
+yes,1,bad,yes,happy
